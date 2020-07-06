@@ -40,6 +40,7 @@ U盘便携版linux：[puppy linux](http://puppylinux.com/)
 20. Shadow Defender 简单的影子防御软件
 21. WinRAR 优秀的解压软件
 22. Xmind 比较好的思维导图 推荐使用java版本的xmind8
+23. [Another Redis Desktop Manager](http://www.electronjs.org/apps/anotherredisdesktopmanager) 较为漂亮的Redis客户端UI
 
 
 
