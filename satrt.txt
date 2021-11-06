@@ -1,0 +1,7 @@
+git init
+git add .
+git add remote git@github.com:zdylzdyl/public-resources.git
+ssh-keygen -t rsa -C 'zdylzdyl@qq.com'
+
+echo '秘钥是C:\Users\Administrator\.ssh\id_rsa.pub文件内容'
+git pull origin master --allow-unrelated-histories
