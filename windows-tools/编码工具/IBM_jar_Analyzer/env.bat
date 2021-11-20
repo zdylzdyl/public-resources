@@ -1,0 +1,1 @@
+set Path=D:\Programs\Java\jdk1.8.0_x64\bin
